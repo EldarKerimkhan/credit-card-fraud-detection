@@ -1,0 +1,4 @@
+=== АНСАМБЛЬ PRODUCTION CONFIG ===
+Selected_Threshold: 0.90
+Final_PR_AUC: 0.8251
+Final_F1_Score: 0.84
